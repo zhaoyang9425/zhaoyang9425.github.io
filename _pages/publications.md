@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Conference Publications
+======
 **Zhao Yang**, Yue Heng Yeo, Rui Jiang, Xiao Fu, Weiguang Chen, Wei Xi, Jizhong Zhao. 
 lnjecting Visual Features into Whisperfor Parameter-Efficient Noise-Robust Audio-Visual Speech Recognition. 
 lCASSP 2025-2025 lEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)
