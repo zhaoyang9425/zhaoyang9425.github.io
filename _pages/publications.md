@@ -57,11 +57,15 @@ International Joint Conference on Neural Networks (ICNN 2022)
 
 Fan Yu, Jiawei Guo, Wei Xi, **Zhao Yang**, Rui Jiang, Chao Zhang. 
 Audio DistilBERT: a distilled audio BERT for speech representation learning.
-2021 International Joint Conference on Neural Networks (IJCNN 2021). 
+2021 International Joint Conference on Neural Networks (IJCNN 2021)
 
 Yinhui Zhang, Wei Xi, **Zhao Yang**, Sitao Men, Rui Jiang, Yuxin Yang, Jizhong Zhao. 
 Speech2Stroke: Generate Chinese Character Strokes Directly from Speech.
-International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2020).
+International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2020)
+
+**Zhao Yang**, Dianwen Ng, Xiao Fu, Liping Han, Wei Xi, Rui Wang, Rui Jiang, Jizhong Zhao. 
+On the Effectiveness of Pinyin-Character Dual-Decoding for End-to-End Mandarin Chinese ASR. 
+<font color=#FF000>arXiv 2022</font>
 
 
 
