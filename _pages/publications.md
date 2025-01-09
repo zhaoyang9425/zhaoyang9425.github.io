@@ -65,7 +65,7 @@ International Conference on Collaborative Computing: Networking, Applications an
 
 **Zhao Yang**, Dianwen Ng, Xiao Fu, Liping Han, Wei Xi, Rui Wang, Rui Jiang, Jizhong Zhao. 
 On the Effectiveness of Pinyin-Character Dual-Decoding for End-to-End Mandarin Chinese ASR. 
-<font color=#FF000>arXiv 2022</font>
+<font color="#FF000">arXiv 2022</font>
 
 
 
