@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[中文简历](../files/my_resume.pdf)
+
 Education
 ======
 * Ph.D student in School of Computer Science and Technology, Xi'an Jiaotong University, 2019 ~ Now
